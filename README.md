@@ -1,9 +1,11 @@
 # TDA-Project-1-Hobby-Website
 
 **Project Brief**
+
 The aim of this project is to create a personal website on a topic of your choosing. The site can be on any topic of your choosing (Hobby, family, interest).
 
 **Your Project**
+
 The web page should be created using HTML and CSS, you may also choose to use bootstrap for the site layout and additional elements. The Site should include:
 
 1. A Home page that introduces the site.
@@ -14,13 +16,13 @@ The web page should be created using HTML and CSS, you may also choose to use bo
 6. Pictures that have appropriate alt text.
 
 **Deliverables**
-The address for the GitHub repository.
-The address for the GitHub pages.
+- The address for the GitHub repository.
+- The address for the GitHub pages.
 
 **Extension**
-Add a user input form to one of your pages.
-Include some HTML elements we have not covered in the sessions. Use some Bootstrap components (e.g. jumbotron, cards or carousel).
-Create a second site using CSS Grid.
+- Add a user input form to one of your pages.
+- Include some HTML elements we have not covered in the sessions. Use some Bootstrap components (e.g. jumbotron, cards or carousel).
+- Create a second site using CSS Grid.
 
 **Notes**
 
