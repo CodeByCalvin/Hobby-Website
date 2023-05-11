@@ -34,7 +34,7 @@ body {
 
 .navbar {
   background-color: var(--main-colour);
-  gap: 10rem;
+  padding: 0.4rem 2rem;
 }
 
 .nav-bar-list {
@@ -52,10 +52,6 @@ body {
   border: none;
   cursor: pointer;
   margin-right: 4rem;
-}
-
-.nav-link:first-child {
-  margin-left: 2rem;
 }
 
 .navbar .navbar-nav .nav-link.active {
