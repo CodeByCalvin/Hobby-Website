@@ -75,17 +75,20 @@ h1 {
 p {
   padding: 1rem;
   margin-bottom: 1.4rem;
+  line-height: 2.4rem;
 }
 
 /* ***** HOME PAGE ***** */
 
-.page-text-container {
-  width: 45%;
-  margin-bottom: 16rem;
+.hero-text {
+  font-size: 1.8rem;
+  line-height: 1;
+  padding: 0;
 }
 
 .page-text {
   font-size: 1.8rem;
+  line-height: 1;
 }
 
 li {
@@ -99,7 +102,18 @@ li {
   object-fit: cover;
 }
 
+.btn {
+  font-size: 2rem;
+  background-color: var(--main-colour);
+  color: #fff;
+}
+
 /* ***** PAGE *****  */
+
+.post-introduction {
+  padding: 3rem 8rem 4rem;
+  margin-bottom: 8rem;
+}
 
 .post-container {
   margin: 0 auto;
@@ -124,16 +138,18 @@ li {
 
 /* ***** CAROUSEL *****  */
 
+.hero-row {
+  gap: 12rem;
+}
+
 .carousel-container {
   display: flex;
   justify-content: center;
   align-items: center;
-  flex-direction: column;
 }
 
 .carousel .carousel-item {
-  height: 500px;
-  width: 500px;
+  height: 35rem;
 }
 
 .carousel-item img {
