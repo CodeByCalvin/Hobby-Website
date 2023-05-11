@@ -16,7 +16,6 @@
 html {
   /* 10px / 16px = 0.625 = 62.5% */
   font-size: 62.5%;
-  overflow-x: hidden;
   scroll-behavior: smooth;
 }
 
@@ -25,7 +24,6 @@ body {
   color: #343a40;
   line-height: 1;
   font-weight: 400;
-  overflow-x: hidden;
 }
 
 /* ***** NAV BAR *****  */
