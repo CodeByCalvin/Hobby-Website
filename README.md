@@ -1,10 +1,12 @@
 # TDA-Project-1-Hobby-Website
 
-**Project Brief**
+**Live demo: https://codebycalvin.github.io/TDA-Project-1-Hobby-Website/**
+
+<h2>Project Brief</h2>
 
 The aim of this project is to create a personal website on a topic of your choosing. The site can be on any topic of your choosing (Hobby, family, interest).
 
-**Your Project**
+<h2>Your Project</h2>
 
 The web page should be created using HTML and CSS, you may also choose to use bootstrap for the site layout and additional elements. The Site should include:
 
@@ -15,16 +17,16 @@ The web page should be created using HTML and CSS, you may also choose to use bo
 5. CSS styling and / or layout stored in external stylesheets
 6. Pictures that have appropriate alt text.
 
-**Deliverables**
+<h2>Deliverables</h2>
 - The address for the GitHub repository.
 - The address for the GitHub pages.
 
-**Extension**
+<h2>Extension</h2>
 - Add a user input form to one of your pages.
 - Include some HTML elements we have not covered in the sessions. Use some Bootstrap components (e.g. jumbotron, cards or carousel).
 - Create a second site using CSS Grid.
 
-**Notes**
+<h2>Notes</h2>
 
 - House plants website
 - Homepage (Introduces site, importance/purpose of houseplants)
