@@ -10,21 +10,22 @@ The aim of this project is to create a personal website on a topic of your choos
 
 The web page should be created using HTML and CSS, you may also choose to use bootstrap for the site layout and additional elements. The Site should include:
 
-1. A Home page that introduces the site.
-2. A minimum of three additional pages.
-3. A consistent navigation structure for all pages of the site.
-4. A coherent design for all the pages of the site.
-5. CSS styling and / or layout stored in external stylesheets
-6. Pictures that have appropriate alt text.
+1. A Home page that introduces the site. 
+2. A minimum of three additional pages. 
+3. A consistent navigation structure for all pages of the site. 
+4. A coherent design for all the pages of the site. 
+5. CSS styling and / or layout stored in external stylesheets 
+6. Pictures that have appropriate alt text. 
 
 <h2>Deliverables</h2>
-- The address for the GitHub repository.
-- The address for the GitHub pages.
+- The address for the GitHub repository. 
+<br> - The address for the GitHub pages.
 
 <h2>Extension</h2>
 - Add a user input form to one of your pages.
-- Include some HTML elements we have not covered in the sessions. Use some Bootstrap components (e.g. jumbotron, cards or carousel).
-- Create a second site using CSS Grid.
+<br>- Include some HTML elements we have not covered in the sessions. 
+<br>- Use some Bootstrap components (e.g. jumbotron, cards or carousel). 
+<br>- Create a second site using CSS Grid.
 
 <h2>Notes</h2>
 
