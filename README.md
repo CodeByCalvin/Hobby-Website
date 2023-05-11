@@ -2,6 +2,8 @@
 
 **Live demo: https://codebycalvin.github.io/TDA-Project-1-Hobby-Website/**
 
+![A screenshot of the hero page of a houseplant hobby website](https://i.imgur.com/8F5wJ1c.png)
+
 <h2>Project Brief</h2>
 
 The aim of this project is to create a personal website on a topic of your choosing. The site can be on any topic of your choosing (Hobby, family, interest).
