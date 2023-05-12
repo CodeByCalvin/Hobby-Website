@@ -1,4 +1,4 @@
-# TDA-Project-1-Hobby-Website
+# TDA Project 1: Hobby Website
 
 **Live demo: https://codebycalvin.github.io/TDA-Project-1-Hobby-Website/**
 
