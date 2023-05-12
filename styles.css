@@ -26,6 +26,17 @@ body {
   font-weight: 400;
 }
 
+h1 {
+  margin-bottom: 2.4rem;
+  color: var(--main-colour);
+}
+
+p {
+  padding: 1rem;
+  margin-bottom: 1.4rem;
+  line-height: 2.4rem;
+}
+
 /* ***** NAV BAR *****  */
 
 .bg-custom {
@@ -61,17 +72,6 @@ body {
 
 .navbar-nav .nav-link:hover {
   color: #e6e6e6;
-}
-
-h1 {
-  margin-bottom: 2.4rem;
-  color: var(--main-colour);
-}
-
-p {
-  padding: 1rem;
-  margin-bottom: 1.4rem;
-  line-height: 2.4rem;
 }
 
 /* ***** HOME PAGE ***** */

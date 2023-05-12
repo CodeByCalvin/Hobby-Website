@@ -5,6 +5,7 @@ document.querySelector(".learn-more-button").onclick = function () {
     "https://codebycalvin.github.io/TDA-Project-1-Hobby-Website/ferns.html",
     "https://codebycalvin.github.io/TDA-Project-1-Hobby-Website/orchids.html",
   ];
+
   let randomPage = pages[Math.floor(Math.random() * pages.length)];
   window.location.href = randomPage;
 };
