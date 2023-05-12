@@ -31,10 +31,10 @@ h1 {
   color: var(--main-colour);
 }
 
-p {
-  padding: 1rem;
+p,
+h2 {
   margin-bottom: 1.4rem;
-  line-height: 2.4rem;
+  line-height: 3rem;
 }
 
 /* ***** NAV BAR *****  */
@@ -145,11 +145,34 @@ li {
 }
 
 .carousel .carousel-item {
-  height: 35rem;
+  height: 45rem;
 }
 
 .carousel-item img {
   height: 100%;
   width: 100%;
   object-fit: cover;
+}
+
+/* ***** CONTACT *****  */
+
+.form-title {
+  font-size: 2rem;
+}
+
+.form-introduction {
+  width: 50rem;
+  padding: 2rem 4rem;
+  text-align: center;
+  font-size: ;
+}
+
+.form-label {
+  font-size: 1.6rem;
+  font-weight: 500;
+  color: #343a40;
+}
+
+.form-control {
+  margin-bottom: 2rem;
 }
